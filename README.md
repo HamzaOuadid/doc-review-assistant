@@ -226,7 +226,7 @@ needing a key.
 Requires Python 3.10+.
 
 ```bash
-git clone <this-repo>
+git clone https://github.com/HamzaOuadid/doc-review-assistant.git
 cd doc-review-assistant
 pip install -e ".[dev]"
 ```
