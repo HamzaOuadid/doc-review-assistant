@@ -1,0 +1,578 @@
+[
+  {
+    "document_id": "adial_msa",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "March 15, 2023",
+    "citation_span": "is entered into effective March 15, 2023 (the “Effective Date”) by and between Adial Pharm",
+    "reason": null
+  },
+  {
+    "document_id": "adial_msa",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "Commonwealth of Virginia",
+    "citation_span": "shall be construed and enforced in accordance with the laws of the Commonwealth of Virginia and applicable federal laws, without regard to its conflict of laws principles.",
+    "reason": null
+  },
+  {
+    "document_id": "adial_msa",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Either party, any/no reason, notice per Sec 8.2",
+    "citation_span": "Termination for Convenience: Either party may terminate this Agreement at any time for any or no reason upon the expiration of thirty (30) days following written notice by Company or by Contractor.",
+    "reason": null
+  },
+  {
+    "document_id": "adial_msa",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "",
+    "reason": "The word \"liability\" appears only twice, both in unrelated boilerplate (a no-agency disclaimer and a general indemnification list) -- there is no dedicated liability-cap or damages-exclusion clause. Flagged uncertain rather than a confident exclude because those two mentions are genuine (if weak) evidence, not silence."
+  },
+  {
+    "document_id": "adial_msa",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Contractor may not assign rights/obligations without Company's consent",
+    "citation_span": "Contractor may not assign any of Contractor’s rights or obligations under this Agreement, whether by merger or other operation of law, or a sale of all or part of Contractor’s assets, or otherwise, without the express pr",
+    "reason": null
+  },
+  {
+    "document_id": "adial_msa",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined and protected (Sec 4)",
+    "citation_span": "Contractor acknowledges that during the course of providing its Services hereunder, Contractor may have access to, develop or learn information, and/or acquire knowledge from material, data, systems and other information of or with respect to Company or any of",
+    "reason": null
+  },
+  {
+    "document_id": "cadrenal_msa",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "August 21, 2024",
+    "citation_span": "is entered into as of August 21, 2024 (the “ Effective Date ”), by and between Lohman & As",
+    "reason": null
+  },
+  {
+    "document_id": "cadrenal_msa",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of California",
+    "citation_span": "This Agreement shall be governed by and construed in accordance with the laws of the State of California as applied to agreements made between residents of California for performance entirely within California.",
+    "reason": null
+  },
+  {
+    "document_id": "cadrenal_msa",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "30 days after written notice of termination (Sec 9.3)",
+    "citation_span": "Termination for Convenience . Either party may terminate this Agreement as of the thirtieth (30 th ) day after delivery of written notice of termination in accordance with Section 11.3, below.",
+    "reason": null
+  },
+  {
+    "document_id": "cadrenal_msa",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Liability cap defined in Sec 6.3(a)",
+    "citation_span": "Limitation of Liability . (a) The limit of L&A’s liability (whether in contract, tort, negligence, strict liability in tort or by statute or otherwise) to Client or to any third party concerning performance or non-performance by L&A, or in any manner related t",
+    "reason": null
+  },
+  {
+    "document_id": "cadrenal_msa",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "L&A may delegate; Agreement binds successors/assigns (Sec 11.1)",
+    "citation_span": "Assignment . L&A may delegate its functions to subcontractors when it determines in its sole judgment that such delegation is advisable.",
+    "reason": null
+  },
+  {
+    "document_id": "cadrenal_msa",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined (Sec 8)",
+    "citation_span": "CONFIDENTIALITY 8.1.",
+    "reason": null
+  },
+  {
+    "document_id": "cassava_agreement",
+    "field_name": "effective_date",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "made and entered into effective on February 2 2 , 202 1 (the “Effective Date ”), between E",
+    "reason": "Date rendered with irregular internal spacing (\"February 2 2 , 202 1\"), a PDF-extraction artifact in the filed exhibit; the digit grouping cannot be read with full confidence as a single unambiguous date."
+  },
+  {
+    "document_id": "cassava_agreement",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of Delaware",
+    "citation_span": "This Agreement is to be interpreted and enforced in accordance with the laws of the State of Delaware (without reference to the laws of any other jurisdiction and without reference to the principles of conflicts of laws)",
+    "reason": null
+  },
+  {
+    "document_id": "cassava_agreement",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Customer may terminate individual Statements of Work for convenience (Sec 6.3)",
+    "citation_span": "Termination for Convenience of Statement of Work .",
+    "reason": null
+  },
+  {
+    "document_id": "cassava_agreement",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Liability limitation defined in Sec 8.3",
+    "citation_span": "Limitation of Liability. 8.3.1 Notwithstanding the foregoing Section 8.1 Customer hereby agrees to release, waive, and forever discharge any demands, claims, suits, or actions of any character against Evonik arising out of or in connection with Customer's acce",
+    "reason": null
+  },
+  {
+    "document_id": "cassava_agreement",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Neither party may assign without the other's consent (Sec 12.3)",
+    "citation_span": "Assignment; Successors and Assigns . Neither Party may assign all or any part of this Agreement without the other Party's prior written consent, which shall not be unreasonably withheld.",
+    "reason": null
+  },
+  {
+    "document_id": "cassava_agreement",
+    "field_name": "confidentiality",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "10. Confidentiality .",
+    "reason": "Section 10 (Confidentiality) is redacted in the public SEC filing (marked \"[ *** ]\"); no extractable clause text or citation span is available even though the section is cross-referenced elsewhere in the agreement."
+  },
+  {
+    "document_id": "clevelandbiolabs_agreement",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "October 14, 2013",
+    "citation_span": "is made on October 14, 2013 (the “Effective Date”).",
+    "reason": null
+  },
+  {
+    "document_id": "clevelandbiolabs_agreement",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of New York",
+    "citation_span": "shall be governed by the laws of the State of New York, irrespective of its choice of law principles that would dictate the application of the law of another jurisdiction.",
+    "reason": null
+  },
+  {
+    "document_id": "clevelandbiolabs_agreement",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Sponsor may terminate on 30-90 days written notice (Sec 13.1)",
+    "citation_span": "Termination for Convenience . Sponsor may terminate this Agreement in its entirety or any Statement of Work at any time upon either (a) thirty (30) days written notice to BBL, if no Statements of Work are operational under the Agreement at the time of termination, or otherwise (b) upon ninety (90) days written notice t",
+    "reason": null
+  },
+  {
+    "document_id": "clevelandbiolabs_agreement",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Mutual liability limitation clause",
+    "citation_span": "IN NO EVENT SHALL EITHER PARTY, NOR THEIR RESPECTIVE AFFILIATES OR SUBCONTRACTORS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES (INCLUDING BUT NOT LIMITED TO ANY DAMAGES FOR LOSS OF PROFITS, BUSINESS OR SAVINGS, LOSS OF USE, BUSINESS INTERRUPTION OR THE LIKE), EVEN IF SUC",
+    "reason": null
+  },
+  {
+    "document_id": "clevelandbiolabs_agreement",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Neither party may assign without consent (Sec 14)",
+    "citation_span": "ASSIGNMENT - SUBCONTRACTORS Neither party shall, without the prior written consent of the non-assigning party, which shall not be unreasonably withheld or delayed, assign this Agreement or any rights or obligations hereunder, whether by operation of law or oth",
+    "reason": null
+  },
+  {
+    "document_id": "clevelandbiolabs_agreement",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined (Sec 1.2)",
+    "citation_span": "means all information, materials, methods, procedures, techniques, strategies, policies, cell lines, molecules, compositions of matter, data activities and/or 1 documents of a party and any other confidential information about or belonging to disclosing party’",
+    "reason": null
+  },
+  {
+    "document_id": "ezfill_agreement",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "January 1, 2023",
+    "citation_span": "dated as of January 1, 2023 (the “ Effective Date ”), is by and between EZFILL H",
+    "reason": null
+  },
+  {
+    "document_id": "ezfill_agreement",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of Florida",
+    "citation_span": "shall be governed by, construed, and enforced in accordance with the laws of the State of Florida, excluding conflict of law rules to the extent they would require or permit the laws of any jurisdiction other than Florid",
+    "reason": null
+  },
+  {
+    "document_id": "ezfill_agreement",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "SFM may terminate for convenience after July 31, 2023 (Sec 5.2)",
+    "citation_span": "Termination for Convenience . Unless otherwise expressly set forth in this Agreement, after July 31, 2023, SFM may terminate this Agreement and/or any SOW (or Change Order) at any time, and for any reason or for no reason, immediately upon written notice to Contractor and without any liability to Co",
+    "reason": null
+  },
+  {
+    "document_id": "ezfill_agreement",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "",
+    "reason": "The word \"liability\" recurs throughout the indemnification and insurance sections, but no dedicated liability-cap or consequential-damages-waiver clause is present. Flagged uncertain rather than a confident exclude because of that recurring (if diffuse) evidence."
+  },
+  {
+    "document_id": "ezfill_agreement",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Consent required to assign, with carve-outs for SFM (Sec 13c)",
+    "citation_span": "No party may assign this Agreement without the prior written consent of the other party hereto, except that SFM may freely assign this Agreement without Contractor’s consent to (a) an Affiliate of SFM (as defined below); or (b) any third party together with the business to which it pertains.",
+    "reason": null
+  },
+  {
+    "document_id": "ezfill_agreement",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined (Sec 7.0)",
+    "citation_span": "Confidentiality . Contractor acknowledges and agrees that it will have access to, or become acquainted with, SFM’s Confidential Information.",
+    "reason": null
+  },
+  {
+    "document_id": "fairpoint_agreement",
+    "field_name": "effective_date",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "entered into as of January __, 2007 between Capgemini U.S.",
+    "reason": "The date field in the filed exhibit is left blank (\"January __, 2007\") -- no day was ever filled in, so no unambiguous effective date can be extracted."
+  },
+  {
+    "document_id": "fairpoint_agreement",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of New York",
+    "citation_span": "This Agreement shall be governed by and construed in accordance with the laws of the State of New York, without reference to its choice of law principles.",
+    "reason": null
+  },
+  {
+    "document_id": "fairpoint_agreement",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Capgemini may terminate for convenience on 30 days notice (Sec 11(b)(iii))",
+    "citation_span": "for convenience, at any time upon 30 days prior written notice.",
+    "reason": null
+  },
+  {
+    "document_id": "fairpoint_agreement",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Aggregate liability cap (Sec 10(e))",
+    "citation_span": "the total aggregate liability of either party under this Agreement or with respect to the Services, and regardless of the form of action (including, but not limited to, breach of contract, tort, strict liability, breach of warranties, failure of essential services or otherwise, but excluding liability for fees owed by ",
+    "reason": null
+  },
+  {
+    "document_id": "fairpoint_agreement",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Neither party may assign without consent, with carve-out for Capgemini (Sec 14(i))",
+    "citation_span": "Assignment . Neither this Agreement nor any of the rights or duties hereunder may be assigned or otherwise transferred by either party without the other party’s prior written consent; provided, however, that Capgemini may assign or otherwise transfer its rights or duties under th",
+    "reason": null
+  },
+  {
+    "document_id": "fairpoint_agreement",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Mutual confidentiality obligation (Sec 5)",
+    "citation_span": "Neither party shall disclose to a third party Confidential Information (as defined below) of the other party.",
+    "reason": null
+  },
+  {
+    "document_id": "galectin_agreement",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "March 12, 2020",
+    "citation_span": "This Master Services Agreement is effective as of March 12, 2020 (“ Effective Date ”) by a",
+    "reason": null
+  },
+  {
+    "document_id": "galectin_agreement",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "Delaware",
+    "citation_span": "shall be governed by the laws of Delaware, without regard or giving effect to its principles of conflicts of law and, if applicable, with the express exclusion of the United Nations Convention on the International Sale of Goods.",
+    "reason": null
+  },
+  {
+    "document_id": "galectin_agreement",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Either party may terminate a Work Order for any reason on 90 days notice (Sec 21.2)",
+    "citation_span": "A Party may terminate a Work Order prior to completion of the applicable Services at any time for any reason upon ninety (90) days written notice to the other Party, except when the reason for termination is the safety of Study participants, whereupon it may be terminated immediately.",
+    "reason": null
+  },
+  {
+    "document_id": "galectin_agreement",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Liability limitation (Sec 18)",
+    "citation_span": "REMEDIES AND LIMIT OF LIABILITY 18.1 Except as otherwise provided in the additional terms and conditions of each Company Affiliate that apply to the services provided by a Company Affiliate (and any Work Orders thereunder) under Exhibit A, the terms of this se",
+    "reason": null
+  },
+  {
+    "document_id": "galectin_agreement",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Assignable to Affiliates only (Sec 33.2)",
+    "citation_span": "Assignment . Each Party may transfer or subcontract any or all of its rights and obligations under this Agreement or a Work Order to its Affiliates.",
+    "reason": null
+  },
+  {
+    "document_id": "galectin_agreement",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined (definitions section)",
+    "citation_span": "means any and all commercial or technical information or materials and all derivatives thereof, in any and all forms, howsoever disclosed or obtained including business plans, financial information, client lists and requirements, techniques, designs, methods, ",
+    "reason": null
+  },
+  {
+    "document_id": "graphicpkg_msa",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "November 29, 2007",
+    "citation_span": "is made and entered into as of November 29, 2007 (the “Effective Date”), by and between Gr",
+    "reason": null
+  },
+  {
+    "document_id": "graphicpkg_msa",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "Georgia",
+    "citation_span": "This Agreement will be governed by and construed in accordance with the substantive laws of Georgia without giving effect to any choice-of-law rules that may require the application of the laws of another jurisdiction.",
+    "reason": null
+  },
+  {
+    "document_id": "graphicpkg_msa",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "GPI may terminate for convenience on 120 days notice + Termination Fee",
+    "citation_span": "GPI may terminate (a) this Agreement or (b) one or more Service Towers, for convenience by providing Perot Systems with at least 120 days’ prior Notice of GPI’s intent to terminate and paying Perot Systems the Termination Fee.",
+    "reason": null
+  },
+  {
+    "document_id": "graphicpkg_msa",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Consequential and direct damages caps (Article XVIII)",
+    "citation_span": "Limitation on Consequential Damages. OTHER THAN WITH RESPECT TO DAMAGES RESULTING FROM BREACHES OF SECTION 13.2 (DAMAGES FOR WHICH SHALL BE LIMITED TO AN AMOUNT EQUAL TO THE DAMAGES LIMITATION DEFINED IN SECTION 18.2(a) REGARDLESS OF THEIR CHARACTERIZATION AS DIRECT OR CONSEQUENTIAL DAMAGES), NEITHER PARTY WILL BE LIABLE TO THE OTHER PART",
+    "reason": null
+  },
+  {
+    "document_id": "graphicpkg_msa",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Neither party may assign without consent (Sec 21.5)",
+    "citation_span": "Binding Nature; Assignment. This Agreement will be binding on the Parties and their successors and permitted assigns.",
+    "reason": null
+  },
+  {
+    "document_id": "graphicpkg_msa",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Subcontractor confidentiality flow-down obligation",
+    "citation_span": "obligation to keep confidential GPI’s Confidential Information to the same extent Perot Systems is obligated to do so, and to assign to GPI any Intellectual Property Rights to the extent that such rights are to be assigned to or owned by GP",
+    "reason": null
+  },
+  {
+    "document_id": "livewire_msa",
+    "field_name": "effective_date",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "effective as of January 1, 2025 (the “Effective Date”), is entered by and betwee",
+    "reason": "The document also references a related, separate Separation Agreement using identical phrasing (\"effective as of September 26, 2022\") earlier in the recitals; a naive date extractor risks conflating the two, so this is flagged for reviewer confirmation rather than confidently assumed to be January 1, 2025."
+  },
+  {
+    "document_id": "livewire_msa",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of Delaware",
+    "citation_span": "shall be governed by and construed and interpreted in accordance with the Laws of the State of Delaware, irrespective of the choice of laws principles of the State of Delaware, including all matters of validity, construction, effect, enforc",
+    "reason": null
+  },
+  {
+    "document_id": "livewire_msa",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Either party may terminate for convenience on 90 days notice (Sec 8.4)",
+    "citation_span": "Termination for Convenience . Either Party may terminate this Agreement or any applicable Letter Agreement for convenience upon ninety (90) days’ prior written notice to the other Party; provided that all amounts then owed are paid as of the termination date, and provided that LiveWire reimburses HD, as of the termination date, any other ",
+    "reason": null
+  },
+  {
+    "document_id": "livewire_msa",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Liability limitation (Sec 7.6)",
+    "citation_span": "Limitation of Liability . WITHOUT LIMITING THE PARTIES’ INDEMNIFICATION OBLIGATIONS UNDER THE SEPARATION AGREEMENT OR THE BUSINESS COMBINATION AGREEMENT, AND NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED IN THIS AGREEMENT, TO THE FULLEST EXTENT PERMITTED UNDER APPLICABLE LAW, EXCEPT FOR THE PAR",
+    "reason": null
+  },
+  {
+    "document_id": "livewire_msa",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Neither party may assign without consent (Sec 9.1)",
+    "citation_span": "Assignment . This Agreement and the rights and obligations hereunder may not be assigned or transferred by either Party, in whole or in part, without the express written consent of the other Party, which shall not unreasonably be withheld, conditioned or delayed.",
+    "reason": null
+  },
+  {
+    "document_id": "livewire_msa",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined",
+    "citation_span": "means (a) non-public information and material of a Party or its Affiliates (and of companies with which such Party has entered into confidentiality agreements) that the other Party obtains knowledge of or access to in connection with this Agreement; (b) non-pu",
+    "reason": null
+  },
+  {
+    "document_id": "nuscale_agreement",
+    "field_name": "effective_date",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "of this Agreement is the date on which the Agreement is fully executed by both parties.",
+    "reason": "This filing bundles two agreements; the Fluor Supplier Agreement portion defines its Effective Date only circularly (\"the date on which the Agreement is fully executed\") rather than stating a calendar date in the text, so no fixed date can be extracted with confidence."
+  },
+  {
+    "document_id": "nuscale_agreement",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of Oregon",
+    "citation_span": "This Agreement shall be governed by the laws of the State of Oregon, without regard to its conflict of laws provisions.",
+    "reason": null
+  },
+  {
+    "document_id": "nuscale_agreement",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Task Orders may be terminated for convenience (Sec 13)",
+    "citation_span": "13. Termination.",
+    "reason": null
+  },
+  {
+    "document_id": "nuscale_agreement",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Mutual consequential-damages waiver",
+    "citation_span": "neither party shall be responsible or held liable to the other for indirect, special or consequential damages, including but not limited to loss of profit, loss of investment, loss of product or business interruption, howsoever caused.",
+    "reason": null
+  },
+  {
+    "document_id": "nuscale_agreement",
+    "field_name": "assignment_restriction",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "",
+    "reason": "No clause restricting or governing assignment of the Agreement itself was found; \"assign\" only appears in unrelated contexts (IP work-product assignment, boilerplate \"successors and assigns,\" personnel reassignment). Flagged uncertain rather than a confident exclude because those decoy mentions are real, if misleading, evidence."
+  },
+  {
+    "document_id": "nuscale_agreement",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined (Sec 7)",
+    "citation_span": "means any information concerning the business, operations, assets or trade secrets of a party that is marked as confidential or that a reasonable person would deem confidential, except as otherwise set forth herein.",
+    "reason": null
+  },
+  {
+    "document_id": "vivos_agreement",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "July 31, 2026",
+    "citation_span": "is entered into as of July 31, 2026 (the “Effective Date” ) by and between The CFO Portal,",
+    "reason": null
+  },
+  {
+    "document_id": "vivos_agreement",
+    "field_name": "governing_law",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "16.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Colorado, without regard to its conflict of laws principles.",
+    "reason": "Two separate governing-law clauses appear in the same document naming different states: Section 16.1 specifies Colorado for the Agreement generally, while Section 8.3 separately specifies Delaware for officer-indemnification/D&O matters. No single jurisdiction can be extracted as \"the\" governing law without knowing which sub-topic is meant."
+  },
+  {
+    "document_id": "vivos_agreement",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "exclude",
+    "correct_value": "Explicitly disclaimed: convenience termination is not permitted (Sec 3.3)",
+    "citation_span": "No Termination for Convenience. Neither Party may terminate this Agreement for convenience.",
+    "reason": null
+  },
+  {
+    "document_id": "vivos_agreement",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "include",
+    "correct_value": "Liability cap tied to fees paid in prior 12 months (Sec 10.1)",
+    "citation_span": "Limitation of Liability 10.1 Cap. EXCEPT FOR (A) BREACHES OF CONFIDENTIALITY UNDER SECTION 7, (B) INDEMNIFICATION OBLIGATIONS UNDER SECTIONS 9 AND 12, (C) GROSS NEGLIGENCE, WILLFUL MISCONDUCT, OR FRAUD, AND (D) AMOUNTS ACTUALLY RECOVERED UNDER ANY APPLICABLE I",
+    "reason": null
+  },
+  {
+    "document_id": "vivos_agreement",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Neither party may assign without consent (Sec 16.6)",
+    "citation_span": "Assignment. Neither Party may assign this Agreement without the other Party’s prior written consent, except that either Party may assign this Agreement to a successor in connection with a merger, acquisition, or sale of substantially all of its assets, provide",
+    "reason": null
+  },
+  {
+    "document_id": "vivos_agreement",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined (Sec 1.1)",
+    "citation_span": "means all non-public information disclosed by one Party to the other Party in connection with this Agreement, including financial information, customer information, technical information, business plans, and any other information that is marked confidential or",
+    "reason": null
+  },
+  {
+    "document_id": "zixcorp_msa",
+    "field_name": "effective_date",
+    "correct_classification": "include",
+    "correct_value": "January 30, 2004",
+    "citation_span": "dated January 30, 2004 (the \"Effective Date\"), is by and between Avent",
+    "reason": null
+  },
+  {
+    "document_id": "zixcorp_msa",
+    "field_name": "governing_law",
+    "correct_classification": "include",
+    "correct_value": "State of New Jersey",
+    "citation_span": "Governing Law. This Agreement shall be governed by the laws of the State of New Jersey, without regard to its conflict of laws rules.",
+    "reason": null
+  },
+  {
+    "document_id": "zixcorp_msa",
+    "field_name": "termination_for_convenience",
+    "correct_classification": "include",
+    "correct_value": "Aventis (later both parties) may terminate for any reason on 30 days notice (Sec 4.4)",
+    "citation_span": "Termination for Convenience. Aventis shall have the right to terminate this Agreement for any reason, at any time, by giving written notice at least thirty (30) days prior to the desired termination date.",
+    "reason": null
+  },
+  {
+    "document_id": "zixcorp_msa",
+    "field_name": "limitation_of_liability",
+    "correct_classification": "uncertain",
+    "correct_value": null,
+    "citation_span": "liable to the other for any special, - 19 - <PAGE> incidental, punitive or consequential damages arising out of or in connection with the use or performance of the Services or Deliverables.",
+    "reason": "This is a legacy SEC plaintext (.txt) filing that embeds SGML pagination artifacts (\"- 19 - <PAGE>\") directly inside the clause text, corrupting the exact wording; not confident the extracted span reflects the clause faithfully enough to ground a clean citation."
+  },
+  {
+    "document_id": "zixcorp_msa",
+    "field_name": "assignment_restriction",
+    "correct_classification": "include",
+    "correct_value": "Neither party may assign without consent (Sec 14.2)",
+    "citation_span": "Assignment. Neither party shall have the right to assign this Agreement or any of the rights or obligations hereunder without the prior written consent of the other party, except that (a) either party may assign this Agreement (and/or one or more IPAs hereunder) to a successor or",
+    "reason": null
+  },
+  {
+    "document_id": "zixcorp_msa",
+    "field_name": "confidentiality",
+    "correct_classification": "include",
+    "correct_value": "Confidential Information defined; discloser/recipient roles (Sec 3.1)",
+    "citation_span": "party disclosing Confidential Information shall be referred to as the \"Discloser\" and the party receiving Confidential Information shall be referred to as the \"Recipient.\" 3.2 Obligations of Confidentiality.",
+    "reason": null
+  }
+]
