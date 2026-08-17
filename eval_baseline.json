@@ -1,0 +1,38 @@
+{
+  "backend": "fixture-rules-v1",
+  "n_documents": 12,
+  "n_hand_labels": 72,
+  "n_extractions": 72,
+  "three_state": {
+    "confidently_wrong_rate_of_all": 0.0,
+    "confidently_wrong_rate_of_confident": 0.0,
+    "uncertain_rate": 0.1389,
+    "confidently_wrong_count": 0,
+    "uncertain_count": 10
+  },
+  "forced_binary": {
+    "confidently_wrong_rate_of_all": 0.1389,
+    "confidently_wrong_count": 10
+  },
+  "grounding": {
+    "included_count": 61,
+    "grounded_count": 61,
+    "grounding_rate": 1.0
+  },
+  "reviewer_time_saved": {
+    "n_field_extractions_scored": 72,
+    "n_documents": 12,
+    "baseline_seconds": 6480.0,
+    "assisted_seconds": 1885.0,
+    "saved_seconds": 4595.0,
+    "saved_seconds_per_document": 382.9166666666667,
+    "percent_time_saved": 70.9104938271605,
+    "assumptions": {
+      "manual_review_seconds": 90,
+      "verify_include_seconds": 15,
+      "verify_exclude_seconds": 20,
+      "review_uncertain_seconds": 95,
+      "rework_wrong_seconds": 150
+    }
+  }
+}
